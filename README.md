@@ -16,4 +16,4 @@ Dataset Source: [Kaggle - Plant Village Dataset](https://www.kaggle.com/datasets
 **Future Prospects:**
 Expanding the model's application to other plants is envisioned, promoting production efficiency and economic growth in agriculture. Additionally, AI-based applications utilizing cameras for easy disease identification in plants are in development.
 
-We welcome your contributions and feedback! Let's collaborate to improve crop management and minimize economic losses in agriculture.
+Timeline and Deliverables: https://docs.google.com/spreadsheets/d/1uFoReYpKzxuzWeAS3hhjtWLWZbTNr0leHQuD2yIcTEM/edit#gid=1115838130
